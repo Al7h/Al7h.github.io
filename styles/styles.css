@@ -1,0 +1,45 @@
+
+  
+      html {
+        font-size: 14px;
+      }
+
+      h1 {
+        font-size: 5rem;
+        text-transform: capitalize;
+        text-shadow: 1px 1px 1px rgb(142, 191, 206),
+                     2px 2px 1px rgb(142, 191, 206);
+        text-align: center;
+        letter-spacing: 2px;
+      }
+
+      h1 + p + h2 + h3 {
+        font-weight: bold;
+      }
+
+      p::first-line {
+        letter-spacing: 1px;
+        word-spacing: 4px;
+      }
+
+      p {
+        font-size: 1rem;
+        color: black;
+        font-family: Georgia, 'Times New Roman', Times, serif, Arial, sans-serif;
+        line-height: 1.4;
+        letter-spacing: 2px;
+      }
+      h3 {
+        front-size: 1rem;
+        color:steelblue;
+        font-family:Verdana, Geneva, Tahoma, sans-serif
+        letter-spacing: 2px;
+      }
+
+      body {
+        bgcolor:rgb(153, 147, 147);
+      } 
+
+      #wrapper {
+
+      }
