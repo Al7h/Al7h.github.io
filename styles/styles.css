@@ -5,10 +5,10 @@
       }
 
       h1 {
-        font-size: 5rem;
+        font-size: 6rem;
         text-transform: capitalize;
-        text-shadow: 1px 1px 1px rgb(142, 191, 206),
-                     2px 2px 1px rgb(142, 191, 206);
+        text-shadow: 3px 3px 3px rgb(142, 191, 206),
+                     3px 3px 3px rgb(142, 191, 206);
         text-align: center;
         letter-spacing: 2px;
       }
@@ -23,23 +23,36 @@
       }
 
       p {
-        font-size: 1rem;
         color: black;
         font-family: Georgia, 'Times New Roman', Times, serif, Arial, sans-serif;
-        line-height: 1.4;
-        letter-spacing: 2px;
+        background-image: url("images/restaurant.jpg");
       }
       h3 {
-        front-size: 1rem;
+        font-size: 3rem;
         color:steelblue;
         font-family:Verdana, Geneva, Tahoma, sans-serif
         letter-spacing: 2px;
       }
 
       body {
-        bgcolor:rgb(153, 147, 147);
+        bgcolor:rgb(216, 202, 137);
       } 
 
       #wrapper {
 
       }
+
+      footer {
+        font-size: 0.8rem;
+      }
+
+      .box {
+        background-image: url(balloons.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+      <div class="wrapper"></div>
+      <div>class="box a"</div>
+          }
+             
+      
+              
