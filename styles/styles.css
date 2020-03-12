@@ -7,8 +7,8 @@
       h1 {
         font-size: 6rem;
         text-transform: capitalize;
-        text-shadow: 3px 3px 3px rgb(142, 191, 206),
-                     3px 3px 3px rgb(142, 191, 206);
+        text-shadow: 3px 3px 3px rgb(214, 106, 142),
+                     3px 3px 3px rgb(214, 106, 142);
         text-align: center;
         letter-spacing: 2px;
         font-weight: bold;
@@ -38,19 +38,19 @@
       }
       h3 {
         font-size: 3rem;
-        color:steelblue;
+        color:rgb(117, 11, 11);
         font-family:Verdana, Geneva, Tahoma, sans-serif
         letter-spacing: 2px;
       }
       h4 {
         font-size: 2.5rem;
-        color: slateblue;
+        color: rgb(212, 44, 44);
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
         letter-spacing: 2px;
       }
 
       body {
-        bgcolor:rgb(216, 202, 137);
+        bgcolor:rgb(216, 202, 137); /*Hintergrundfarbe*/
       } 
 
       footer {
@@ -64,7 +64,7 @@
       
       
 #Tabelle {
-        font-family: sans-serif;
+        font-family: sans-serif; /*Schriftart des Textes in der Tabelle*/
 }
 
 table {
