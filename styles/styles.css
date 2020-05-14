@@ -1,7 +1,7 @@
 
   
       html {
-        font-size: 14px;
+        font-size: 60%;
       }
 
       h1 {
@@ -17,7 +17,7 @@
       h2 {
         font-size: 4rem;
         text-transform: capitalize;
-        letter-spacing: 2px;
+        letter-spacing: 2rem;
         font-weight: bold;
       }
 
@@ -34,19 +34,18 @@
         color: black;
         font-family: Georgia, 'Times New Roman', Times, serif, Arial, sans-serif;
         font-size: 3rem;
-        font-size: 19px;
       }
       h3 {
         font-size: 3rem;
         color:rgb(117, 11, 11);
         font-family:Verdana, Geneva, Tahoma, sans-serif
-        letter-spacing: 2px;
+        letter-spacing: 2rem;
       }
       h4 {
         font-size: 2rem;
         color: rgb(212, 44, 44);
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
-        letter-spacing: 2px;
+        letter-spacing: 2rem; /* um die Schriftgrösse responsive zu machen müssen die Angaben entweder in rem oder % gemacht werden*/
       }
 
      
